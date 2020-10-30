@@ -29,6 +29,7 @@
     "@expo/react-native-touchable-native-feedback-safe": "^1.1.2",
     "@mapbox/mapbox-sdk": "^0.11.0",
     "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/hooks": "^2.6.0",
     "@react-native-mapbox-gl/maps": "^8.1.0-rc.4",
     "@segment/analytics-react-native": "^0.0.1-beta.5",
     "@segment/analytics-react-native-mixpanel": "^0.0.1-test-publish-ci.1",
